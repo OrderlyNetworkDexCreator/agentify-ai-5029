@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/agentifyxyz",
   "VITE_SEO_SITE_NAME": "Agentify AI",
   "VITE_SEO_SITE_DESCRIPTION": "A powerful decentralized exchange",
-  "VITE_SEO_SITE_URL": "https://perpdex.agentifyai.org",
+  "VITE_SEO_SITE_URL": "https://dex.orderly.network/agentify-ai-5029/",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@agentifyportal",
